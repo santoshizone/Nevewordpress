@@ -1,16 +1,17 @@
-[04/Oct/2020:16:03:56] (I): WordPress Instance Info:
-[04/Oct/2020:16:03:56] (I): Home URL : http://localhost/Nevewordpress
-[04/Oct/2020:16:03:56] (I): Site URL : http://localhost/Nevewordpress
-[04/Oct/2020:16:03:56] (I): WordPress Version : 5.5.1
-[04/Oct/2020:16:03:56] (I): Onboarding Version : 1.0.10
-[04/Oct/2020:16:03:56] (I): Multisite : No
-[04/Oct/2020:16:03:56] (I): Server Info : Apache/2.4.43 (Win64) OpenSSL/1.1.1g PHP/7.4.8
-[04/Oct/2020:16:03:56] (I): PHP Version : 7.4.8
-[04/Oct/2020:16:03:56] (I): HTTPS : No
-[04/Oct/2020:16:03:56] (I): PHP Max Execution Time : 4000
-[04/Oct/2020:16:03:56] (I): PHP Max Input Vars : 1000
-[04/Oct/2020:16:03:56] (I): Max Upload Size : 41943040
-[04/Oct/2020:16:03:56] (I): Plugins:
-[04/Oct/2020:16:03:56] (I): [PLUGIN] Elementor : v3.0.11 (Elementor.com)
-[04/Oct/2020:16:03:56] (I): [PLUGIN] Simply Static : v2.1.0 (Code of Conduct LLC)
-[04/Oct/2020:16:03:56] (I): [PLUGIN] Templates Patterns Collection : v1.0.10 (ThemeIsle)
+[05/Oct/2020:07:34:08] (I): WordPress Instance Info:
+[05/Oct/2020:07:34:08] (I): Home URL : http://localhost/Nevewordpress
+[05/Oct/2020:07:34:08] (I): Site URL : http://localhost/Nevewordpress
+[05/Oct/2020:07:34:08] (I): WordPress Version : 5.5.1
+[05/Oct/2020:07:34:08] (I): Onboarding Version : 1.0.10
+[05/Oct/2020:07:34:08] (I): Multisite : No
+[05/Oct/2020:07:34:08] (I): Server Info : Apache/2.4.43 (Win64) OpenSSL/1.1.1g PHP/7.4.8
+[05/Oct/2020:07:34:08] (I): PHP Version : 7.4.8
+[05/Oct/2020:07:34:08] (I): HTTPS : No
+[05/Oct/2020:07:34:08] (I): PHP Max Execution Time : 4000
+[05/Oct/2020:07:34:08] (I): PHP Max Input Vars : 1000
+[05/Oct/2020:07:34:08] (I): Max Upload Size : 41943040
+[05/Oct/2020:07:34:08] (I): Plugins:
+[05/Oct/2020:07:34:08] (I): [PLUGIN] Elementor : v3.0.11 (Elementor.com)
+[05/Oct/2020:07:34:08] (I): [PLUGIN] Simply Static : v2.1.0 (Code of Conduct LLC)
+[05/Oct/2020:07:34:08] (I): [PLUGIN] Templates Patterns Collection : v1.0.10 (ThemeIsle)
+[05/Oct/2020:07:34:08] (I): [PLUGIN] Orbit Fox Companion : v2.9.19 (Themeisle)
